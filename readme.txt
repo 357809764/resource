@@ -9,3 +9,6 @@ attempted.ppt
 
 4、Object reference not set to an intance of an object
 reference.ppt
+
+5、srcIndex, dstIndex or count
+srcIndex.ppt
