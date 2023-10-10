@@ -18,3 +18,9 @@ error.ppt
 
 7、'p' is an undeclared prefix. Line 2, position 2546.
 undeclared.pptx
+
+8、Specified argument was out of the range of valid values.
+specified.ppt
+
+9、bad allocation
+allocation.pptx
