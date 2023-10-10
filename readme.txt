@@ -24,3 +24,6 @@ specified.ppt
 
 9、bad allocation
 allocation.pptx
+
+10、Size of entry less that it is declared!
+size.pptx
