@@ -12,3 +12,9 @@ reference.ppt
 
 5、srcIndex, dstIndex or count
 srcIndex.ppt
+
+6、error
+error.ppt
+
+7、'p' is an undeclared prefix. Line 2, position 2546.
+undeclared.pptx
