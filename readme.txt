@@ -33,3 +33,6 @@ EmptyContentInTheAlternateContent.pptx
 
 12、Specified cast is not valid
 Specified cast is not valid.ppt
+
+13、Open file blocking
+can't open.pptx
