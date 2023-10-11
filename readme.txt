@@ -30,3 +30,6 @@ size.pptx
 
 11、Empty content in the AlternateContent
 EmptyContentInTheAlternateContent.pptx
+
+12、Specified cast is not valid
+Specified cast is not valid.ppt
