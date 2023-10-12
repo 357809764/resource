@@ -36,3 +36,11 @@ Specified cast is not valid.ppt
 
 13、Open file blocking
 can't open.pptx
+
+14、table get row height time out
+System::SharedPtr<IRow> row = rowCollection->idx_get(rowIndex); double rowHeight = row->get_Height();
+TableRowGetHeight.pptx
+TableRowGetHeight2.pptx
+
+15、oepn time out
+OpenTimeOut.pptx
