@@ -1,5 +1,5 @@
 1、The given key was not present in the dictionary
-dictionary.pptx
+dictionary.pptx => fix
  
 2、TimeLine.Load, error reading slide
 timeline.load.pptx 
@@ -8,7 +8,7 @@ timeline.load.pptx
 attempted.ppt
 
 4、Object reference not set to an intance of an object
-reference.ppt
+reference.ppt => fix
 
 5、srcIndex, dstIndex or count
 srcIndex.ppt
@@ -29,7 +29,7 @@ allocation.pptx
 size.pptx
 
 11、Empty content in the AlternateContent
-EmptyContentInTheAlternateContent.pptx
+EmptyContentInTheAlternateContent.pptx => fix
 
 12、Specified cast is not valid
 Specified cast is not valid.ppt
@@ -43,4 +43,4 @@ TableRowGetHeight.pptx
 TableRowGetHeight2.pptx
 
 15、oepn time out
-OpenTimeOut.pptx
+OpenTimeOut.pptx (5 min)
