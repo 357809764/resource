@@ -33,6 +33,7 @@ EmptyContentInTheAlternateContent.pptx => fix
 
 12、Specified cast is not valid
 Specified cast is not valid.ppt
+Specified cast is not valid2.pptx 23.9-23.11
 
 13、Open file blocking
 can't open.pptx
